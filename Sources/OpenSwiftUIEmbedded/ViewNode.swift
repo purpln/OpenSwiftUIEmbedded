@@ -1,5 +1,5 @@
 import OpenSwiftUI
-import Nodes
+import Pixels
 import Foundation
 
 public final class ViewNode: Node {
